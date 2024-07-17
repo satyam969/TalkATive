@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.logo{
+
+    mix-blend-mode: multiply;
+   
+
+}
+::-webkit-scrollbar{
+    width:0px;
+}
+::-webkit-scrollbar-track{
+    background-color:transparent;
+}
+::-webkit-scrollbar-thumb{
+    background-color:#02d9a1;
+    border-radius:5px;
+}
+::-webkit-scrollbar-thumb:hover{
+    background-color:#000000;
+}
